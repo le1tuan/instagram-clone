@@ -1,0 +1,41 @@
+.instagram-content-container {
+  margin-top: 80px;
+  padding-top: 50px;
+}
+
+.instagram-content-item {
+  padding: 0 80px 0 80px;
+  display: flex;
+  flex-direction: column;
+}
+
+.instagram-image {
+  position: relative;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.instagram-title {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 0px solid grey;
+  padding: 0 10px;
+}
+
+.instagram-widget {
+  display: flex;
+  font-size: 25px;
+}
+
+.instagram-widget div{
+  padding: 8px;
+}
+
+#book-mark__left {
+  margin-left: auto;
+}
